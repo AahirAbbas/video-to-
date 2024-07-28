@@ -1,0 +1,5 @@
+gcc-i686-linux-gnu
+g++-i686-linux-gnu
+ffmpeg
+libsm6
+libxext6
